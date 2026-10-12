@@ -1,4 +1,4 @@
-# RMD - Reach More Destinations (Travel Booking System)
+<img width="940" height="428" alt="image" src="https://github.com/user-attachments/assets/6b05533b-bf8c-46c3-a348-72b613e5e7d8" /><img width="940" height="428" alt="image" src="https://github.com/user-attachments/assets/1c3cf64f-c9bf-45c9-b8f8-bc0cd162c400" /># RMD - Reach More Destinations (Travel Booking System)
 
 ## Project Title
 RMD – Reach More Destinations: Server-Side Extension (Assignment-3)
@@ -7,12 +7,12 @@ RMD – Reach More Destinations: Server-Side Extension (Assignment-3)
 Travel & Tour Booking Website
 
 ## Technologies Used
-- Frontend (Assignment-2, unchanged): HTML5, CSS3, JavaScript
-- Backend (Assignment-3): PHP 8, MySQLi
+- Frontend : HTML5, CSS3, JavaScript
+- Backend : PHP 8, MySQLi
 - Database: MySQL
 - Data Interchange: XML (SimpleXML)
 
-## Features Implemented (Assignment-3)
+## Features Implemented 
 - PHP form processing and server-side validation for login, registration, booking, enquiry and review forms
 - MySQL database (`rmd_travel`) with tables: users, packages, bookings, enquiries, reviews
 - Insert operations: register, book package, submit enquiry, submit review
@@ -49,5 +49,9 @@ Travel & Tour Booking Website
 | read_packages_xml.php | GET | Parses xml/packages.xml, returns JSON |
 | export_bookings_xml.php | GET | Creates & downloads bookings_export.xml |
 
-## Screenshots
-_(Add screenshots here: form submission, phpMyAdmin table records, update/delete demo, search results, and the generated XML file open in a browser.)_
+
+
+
+
+
+
