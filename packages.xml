@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packages>
+    <package>
+        <name>Goa Beach Escape</name>
+        <destination>Goa</destination>
+        <duration>4 Days / 3 Nights</duration>
+        <price>8500</price>
+        <features>
+            <feature>Hotel &amp; Breakfast</feature>
+            <feature>Sightseeing</feature>
+            <feature>Local Transport</feature>
+        </features>
+    </package>
+    <package>
+        <name>Manali Adventure</name>
+        <destination>Manali</destination>
+        <duration>6 Days / 5 Nights</duration>
+        <price>12500</price>
+        <features>
+            <feature>Hotel Stay</feature>
+            <feature>Mountain Tour</feature>
+            <feature>Transport</feature>
+        </features>
+    </package>
+    <package>
+        <name>Kerala Backwater</name>
+        <destination>Kerala</destination>
+        <duration>3 Days / 2 Nights</duration>
+        <price>6500</price>
+        <features>
+            <feature>Houseboat</feature>
+            <feature>Breakfast</feature>
+            <feature>Sightseeing</feature>
+        </features>
+    </package>
+</packages>
